@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nano": "^5.12.2"
+    "nano": "^7.0.0"
   }
 }
